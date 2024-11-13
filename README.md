@@ -7,7 +7,8 @@
 ### 作者0xShe
 ### 下载地址：https://github.com/0xShe/Backup-X/releases/tag/Backup-X
 
-![image](https://github.com/user-attachments/assets/fcadbc84-8c55-4724-b729-7a12858a5e0c)
+![image](https://github.com/user-attachments/assets/758f79af-f084-4593-bac1-aa275d1a48fb)
+
 
 
 
